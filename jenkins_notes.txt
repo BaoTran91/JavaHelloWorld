@@ -1,0 +1,3 @@
+http://localhost:8080/job/HelloWorld/configure
+/Users/Shared/Jenkins/Home/workspace/HelloWorld
+http://localhost:8080/job/HelloWorld/build?token=12345
